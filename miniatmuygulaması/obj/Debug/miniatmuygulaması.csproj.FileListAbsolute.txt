@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\miniatmuygulaması\bin\Debug\miniatmuygulaması.exe.config
+C:\Users\admin\source\repos\miniatmuygulaması\bin\Debug\miniatmuygulaması.exe
+C:\Users\admin\source\repos\miniatmuygulaması\bin\Debug\miniatmuygulaması.pdb
+C:\Users\admin\source\repos\miniatmuygulaması\obj\Debug\miniatmuygulaması.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\miniatmuygulaması\obj\Debug\miniatmuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\miniatmuygulaması\obj\Debug\miniatmuygulaması.exe
+C:\Users\admin\source\repos\miniatmuygulaması\obj\Debug\miniatmuygulaması.pdb
